@@ -1,0 +1,33 @@
+{
+    "first_name": "yoottana",
+    "order": {
+        "address": {
+            "first_name",
+            "first_name",
+            "test",
+            "user_address": "bkk",
+            "district": "district",
+            "area": "area",
+            "province": "province",
+            "postal": "111111",
+            "telephone": "0123456789"
+        },
+        "cart": [
+            {
+                "type": "Plant",
+                "product_images": "img",
+                "price": "1000",
+                "size": "35",
+                "qty": "1"
+            },
+            {
+                "type": "Plant",
+                "product_images": "img",
+                "price": "1000",
+                "size": "35",
+                "qty": "1"
+            }
+        ],
+        "totol_cost": "5000"
+    }
+}
